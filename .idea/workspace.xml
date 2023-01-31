@@ -2,7 +2,15 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <device id="Nexus 6P" />
+        <device id="pixel_4_xl" />
+        <device id="pixel_c" />
+        <device id="_device_class_phone" />
+        <device id="resizable" />
+        <device id="6.7in Foldable" />
+        <option name="nonWearDeviceLastStateName" value="Portrait" />
+      </config>
     </shared>
   </component>
   <component name="AutoImportSettings">
