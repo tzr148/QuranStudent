@@ -20,7 +20,6 @@ id std_date
 id std_name
 id std_roll
 id std_spinner
-id textView
 id textView10
 id textView12
 id textView16
