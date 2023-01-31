@@ -23,7 +23,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
     Button btn_add_std, btn_show_reocrds, btn_add_record;
     DbHandler dbHandler;
-    ImageView git_link;
+    Button git_link;
     EditText rec_date, rec_sabak, rec_sabki, rec_manzil;
     Spinner stdSpinner;
     ArrayAdapter<Student> spinnerAdapter;
@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
         git_link.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri webpage = Uri.parse("https://github.com/AqibAmin/MadrasaRegister");
+                Uri webpage = Uri.parse("https://github.com/tzr148/QuranStudent/commits/main");
                 Intent intent = new Intent(Intent.ACTION_VIEW, webpage);
                 startActivity(intent);
             }
