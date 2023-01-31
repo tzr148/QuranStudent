@@ -14,6 +14,7 @@ drawable ic_launcher_foreground
 id btn_add_record
 id btn_add_std
 id btn_see_records
+id git_link
 id imageView3
 id std_date
 id std_name
