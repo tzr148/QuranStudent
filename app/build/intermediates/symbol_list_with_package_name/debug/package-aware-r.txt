@@ -2906,6 +2906,7 @@ id bounceStart
 id btn_add_record
 id btn_add_std
 id btn_see_records
+id button
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3026,7 +3027,6 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imageView3
 id immediateStop
 id included
 id indeterminate

@@ -28,8 +28,8 @@
         "source": "C:\\Users\\Tahir Zahid\\.gradle\\daemon\\7.4\\com.example.madrasaregister.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.madrasaregister.app-merged_res-29:/layout_activity_main.xml.flat",
-        "source": "com.example.madrasaregister.app-main-31:/layout/activity_main.xml"
+        "merged": "com.example.madrasaregister.app-merged_res-29:/layout_student_record_item.xml.flat",
+        "source": "com.example.madrasaregister.app-main-31:/layout/student_record_item.xml"
     },
     {
         "merged": "C:\\Users\\Tahir Zahid\\.gradle\\daemon\\7.4\\com.example.madrasaregister.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
